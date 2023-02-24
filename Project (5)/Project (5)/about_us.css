@@ -1,0 +1,59 @@
+﻿body {
+    margin: 0;
+}
+
+.aboutUsContainer {
+    display: flex;
+    width: 100%;
+    object-fit: cover;
+}
+
+.aboutUschild {
+    object-fit: fill;
+    text-align: center;
+}
+
+.blue {
+    background-color: #E6E6E6;
+    height: 34rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutUsHead {
+    color: #183153;
+    font-size: 36px;
+}
+
+.divImge {
+    width: 30%;
+}
+
+.aboutUsimg {
+    height: 34rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+.aboutUsparagraph {
+    color: #183153;
+    font-size: 22px;
+}
+
+.blueContant {
+    margin-top: 7rem;
+    margin-left: 8rem;
+    text-align: start;
+}
+
+.floutRite {
+    float: left;
+}
+
+#ournav {
+    display: !important flex;
+    float: right;
+    flex-wrap: !important wrap;
+    justify-content: !important space-around;
+}
